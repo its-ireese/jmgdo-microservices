@@ -5,7 +5,7 @@
     "title": "Product Info",
     "description": "A sample API that uses Product Information microservice to provide CRUD operations"
   },
-  "host": "--Replace this with your host URL--",
+  "host": "derricewrigh-5000.theiadocker-0-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai",
   "basePath": "/",
   "schemes": ["https"],
   "consumes": ["application/json"],
